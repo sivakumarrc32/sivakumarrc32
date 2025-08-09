@@ -8,11 +8,10 @@
 
 <p align="center">Passionate Fresher in Backend Development</p>
 
-###
 
 <h4 align="left">📫 How to Reach Me  👇🏻 :</h4>
 
-###
+
 
 <div align="center">
   <a href="https://in.linkedin.com/in/sivakumar-r-c" target="_blank">
