@@ -117,7 +117,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/sivakumarrc32/sivakumarrc32/output/snake.svg" alt="Snake animation" />
-
-###
