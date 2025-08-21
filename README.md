@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">I'm Sivakumar from India,Tamilnadu,Madurai<br><br>- 🔭 I’m working as a Backend Developer Intern at Justtry Technologies<br>- 📚 I'm currently learning Node.js ,Express.js and Postman<br>- ⚡ In my free time I will search idea for my project</p>
+<p align="left">I'm Sivakumar from India,Tamilnadu,Madurai<br><br>- 🔭 I’m working as a Backend Developer Intern at Justtry Technologies<br>- 📚 I'm currently learning Nest Js and TypeScript<br>- ⚡ In my free time I will search idea for my project</p>
 
 ###
 
@@ -57,6 +57,8 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="30" alt="css logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Nest-000000?logo=nest&logoColor=white&style=for-the-badge" height="30" alt="nest logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
   <img width="15" />
